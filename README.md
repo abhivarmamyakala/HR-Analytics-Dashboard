@@ -48,6 +48,9 @@ This dashboard provides actionable insights into employee retention and satisfac
 - Improve employee engagement strategies  
 - Support better data-driven HR decisions
 
+Interactive report
+https://app.powerbi.com/reportEmbed?reportId=e464fd20-fd45-483d-a371-6ca22a2a8c6d&autoAuth=true&ctid=975c8213-07b6-4c7f-b850-f683a488501b
+
 ---
 
 ## 👨‍💻 Author
